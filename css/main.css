@@ -54,6 +54,9 @@ footer a {
     -ms-box-shadow:0 2px 3px #BDBDBD;
     box-shadow:0 2px 3px #BDBDBD;
 }
+.namer {
+    color: #FFFFFF
+}
 .inner {
     background-color:#FAFAFA;
     padding: 5%;
